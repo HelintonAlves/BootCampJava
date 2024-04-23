@@ -21,5 +21,5 @@ git init
 
 - [Digital Innovation One](https://dio.com).
 
-# bootCamp-Java-Santander
+# bootCamp-Java
 
